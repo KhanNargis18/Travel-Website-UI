@@ -1,6 +1,6 @@
 <h1 align="center">Travel Website UI</h1>
 
-
+![Image](https://github.com/user-attachments/assets/68cc896c-5948-4681-940e-1680777163cb)
 
 <p>A fully responsive Travel Website using only HTML + CSS — no JavaScript required.
 <br>
